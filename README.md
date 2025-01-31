@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá! Seja bem-vindo ao meu perfil no GitHub! 👋
 
-<!--
-**Gustav0teo/Gustav0teo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Conheça um pouco da minha trajetória profissional:
+🎓 **Graduando em Tecnologia em Ciência de Dados**  
+💻 **Estagiário de Business Intelligence na Rumo Logística (https://rumolog.com)**  
+📚 **Sempre em busca de novos conhecimentos, explorando desde programação até estatística**  
+🌟 **Apaixonado por análise de dados, Power BI e programação**  
+📖 **Acredito que o aprendizado é um processo contínuo e me empenho em expandir meus horizontes a cada dia**  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Tópicos de Interesse:
+- 🚀 Ciência de Dados
+- 📊 Análise de Dados
+- 🖥️ Programação
